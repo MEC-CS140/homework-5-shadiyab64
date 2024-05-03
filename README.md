@@ -1,6 +1,5 @@
-# CS140: Computer Science Seminar - Python Assignment Template
+# CS140: Computer Science Seminar Assignment: Lists
 
-Use this Template for Assignments
 
 ## Table of Contents
 
